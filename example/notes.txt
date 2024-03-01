@@ -1,0 +1,1 @@
+The low power threshold for the entertainment system is 5 wats.

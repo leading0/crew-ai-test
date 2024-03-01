@@ -1,0 +1,101 @@
+{
+  "entity_id": "weather.forecast",
+  "state": "cloudy",
+  "attributes": {
+    "temperature": 8.1,
+    "dew_point": 6.8,
+    "temperature_unit": "°C",
+    "humidity": 92,
+    "cloud_coverage": 86.3,
+    "pressure": 1004.6,
+    "pressure_unit": "hPa",
+    "wind_bearing": 116.8,
+    "wind_gust_speed": 16.9,
+    "wind_speed": 10.1,
+    "wind_speed_unit": "km/h",
+    "visibility_unit": "km",
+    "precipitation_unit": "mm",
+    "forecast": [
+      {
+        "condition": "cloudy",
+        "precipitation_probability": 0.0,
+        "datetime": "2024-03-01T11:00:00+00:00",
+        "wind_bearing": 116.8,
+        "temperature": 8.1,
+        "templow": 6.2,
+        "wind_gust_speed": 21.2,
+        "wind_speed": 12.2,
+        "precipitation": 0.0,
+        "humidity": 92
+      },
+      {
+        "condition": "partlycloudy",
+        "precipitation_probability": 0.0,
+        "datetime": "2024-03-02T11:00:00+00:00",
+        "wind_bearing": 178.6,
+        "temperature": 12.5,
+        "templow": 5.1,
+        "wind_gust_speed": 24.5,
+        "wind_speed": 14.4,
+        "precipitation": 0.0,
+        "humidity": 68
+      },
+      {
+        "condition": "cloudy",
+        "precipitation_probability": 0.0,
+        "datetime": "2024-03-03T11:00:00+00:00",
+        "wind_bearing": 97.7,
+        "temperature": 11.0,
+        "templow": 5.1,
+        "wind_gust_speed": 29.5,
+        "wind_speed": 16.6,
+        "precipitation": 0.0,
+        "humidity": 91
+      },
+      {
+        "condition": "partlycloudy",
+        "precipitation_probability": 13.7,
+        "datetime": "2024-03-04T11:00:00+00:00",
+        "wind_bearing": 62.3,
+        "temperature": 12.6,
+        "templow": 3.9,
+        "wind_gust_speed": 16.6,
+        "wind_speed": 10.1,
+        "precipitation": 0.0,
+        "humidity": 72
+      },
+      {
+        "condition": "cloudy",
+        "precipitation_probability": 19.6,
+        "datetime": "2024-03-05T11:00:00+00:00",
+        "wind_bearing": 74.9,
+        "temperature": 7.6,
+        "templow": 5.2,
+        "wind_speed": 14.0,
+        "precipitation": 0.0,
+        "humidity": 74
+      },
+      {
+        "condition": "cloudy",
+        "precipitation_probability": 7.8,
+        "datetime": "2024-03-06T11:00:00+00:00",
+        "wind_bearing": 65.8,
+        "temperature": 5.8,
+        "templow": 2.3,
+        "wind_speed": 11.2,
+        "precipitation": 0.0,
+        "humidity": 65
+      }
+    ],
+    "attribution": "Weather forecast from met.no, delivered by the Norwegian Meteorological Institute.",
+    "friendly_name": "Forecast HausHaus",
+    "supported_features": 3
+  },
+  "last_changed": "2024-03-01T17:06:31.880483+00:00",
+  "last_updated": "2024-03-01T19:02:31.878877+00:00",
+  "context": {
+    "id": "01HQXPB266WJQBHSZJEWY5BW4X",
+    "parent_id": null,
+    "user_id": null
+  }
+}

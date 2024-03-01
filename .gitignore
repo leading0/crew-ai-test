@@ -1,0 +1,5 @@
+/.idea/
+/local/
+/.env
+/*.iml
+/local_*.py
